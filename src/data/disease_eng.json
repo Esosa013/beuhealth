@@ -1,0 +1,944 @@
+{
+    "dysentery": {
+  "title": "Frequent Use of Toilet (Dysentery) 🚽",
+  "symptoms": [
+    "The stool will be watery and have blood and mucus.",
+    "The stomach will start hurting.",
+    "The body will begin to feel cold.",
+    "A person with dysentery may begin to feel nauseous (vomiting).",
+    "They may start throwing up (vomiting)."
+  ],
+  "if serious signs can be": [
+    "The lips, tongue, and mouth will be dry.",
+    "The body will feel weak.",
+    "The urine will come out in a smaller quantity than usual and appear dark yellow.",
+    "The eyes will appear like they are being pressed inside.",
+    "There will be tendency of a child to cry but there will be little or no tears coming out.",
+    "A person can even faint if the water in the body is too small."
+  ],
+  "causes": [
+    "Eating foods or drinking water that has bacteria or parasites can cause this disease.",
+    "Parasites and bacteria are tiny things that enter food or water if it is not kept clean or washed properly.",
+    "It can happen if someone eats food without washing their hands, especially if the hands are dirty."
+  ],
+  "effects": [
+    "It will make the body lose much water through the stool.",
+    "It will make a person feel weak because the body does not have enough water.",
+    "The skin will look dry when the body does not have enough water.",
+    "If the person is not eating well while they have this disease, they can get malnutrition — a child will not grow well and will fall sick many times."
+  ],
+  "prevention": {
+    "lifestyle": [
+      "Use clean or boiled water for cooking, washing, and drinking.",
+      "Do not eat raw food without rinsing or cooking it — rinse things like onions or coconut before eating them. Foods that have not been washed and cooked carry a lot of bacteria.",
+      "Wash your hands often with soap — especially before cooking or eating.",
+      "Drink enough water regularly.",
+      "Rinse food well before cooking it — not with soap, but with clean or salted water.",
+      "Wash plates, pots, and spoons with soap and rinse with clean water before using them."
+    ]
+  },
+  "foods to eat (foods that are gentle on the stomach)": [
+    "Guava leaves",
+    "Boiled rice",
+    "Ogbono soup with little pepper",
+    "Boiled yam",
+    "Soft yam porridge with little palm oil",
+    "Light pap (akamu) with a pinch of salt and sugar",
+    "Boiled sweet or Irish potato — make it soft and do not fry it",
+    "Okro soup with no pepper or meat",
+    "Ripe banana",
+    "Soft, boiled unripe plantain",
+    "Ugu or waterleaf soup with only a small amount of salt and red oil — no Maggi, crayfish, or pepper",
+    "Soft spinach"
+  ],
+  "if someone has it": [
+    "For a child that has it, give at least 3 cups of clean water or water with a small amount of salt and sugar mixed inside during the day — let them drink it slowly.",
+    "An adult can take 5 to 6 cups of water or more a day, especially if they are stooling — it is better to sip it slowly than to rush it."
+  ],
+  "comment": [
+    "#Do not eat pepper soup, fried food, foods with too much oil, meat, beans, suya, zobo, or too much milk.",
+    "#Do not take drinks that have too much sugar like Fanta or Coke.",
+    "#Always wash your hands before eating — especially if you work with cement or make people's hair.",
+    "#You might say, 'It is not that serious if I do not wash my hands' — but it is good health that makes you enjoy good food, right?",
+    "#It may feel stressful to practice all these, but just start small — it will soon feel normal with time."
+  ]
+},
+
+    "malaria": {
+  "title": "Mosquito Bite (Malaria) 🦟",
+  "symptoms": [
+    "There will be high fever that comes and goes.",
+    "The body will feel cold and shiver as if cold air is entering it.",
+    "There will be headache.",
+    "The body will feel weak and there will be no strength.",
+    "The body will sweat too much, even when the weather is not hot.",
+    "The body and the muscles in the legs and hands will be paining.",
+    "The person will feel like vomiting.",
+    "The eyes may look red and the person will be restless.",
+    "A child may cry more than usual or may refuse to eat."
+  ],
+  "causes": [
+    "Malaria happens when a mosquito that carries the germ that causes malaria bites a person.",
+    "When dirty water stays in one place for a long time, it can attract mosquitoes to lay eggs there.",
+    "It can happen if someone does not cover their body well or sleeps without using a mosquito net.",
+    "Dirty gutters or bushes around can also attract mosquitoes to the area."
+  ],
+  "effects": [
+    "It can make a person too weak to stand, walk, or work.",
+    "It can disturb the brain of a child if it becomes too much or is not treated.",
+    "It can stop a child from growing well or learning properly.",
+    "It can damage the blood cells and reduce the amount of blood in the body.",
+    "It can affect the liver or kidney if it is not treated.",
+    "If a pregnant woman has malaria, it can affect the pregnancy or cause the woman to lose the baby.",
+    "If it becomes too much, the person can faint or even die."
+  ],
+  "prevention": {
+    "lifestyle": [
+      "Do not allow dirty water or gutters to stay around — pour them away.",
+      "Clear the bushes around your house.",
+      "Use mosquito spray in the house. It will kill them.",
+      "Do not stay outside late in the evening, especially if your body is not covered well, because mosquitoes can bite you.",
+      "If malaria keeps coming back, go to the clinic and let them check your blood.",
+      "Always use mosquito nets every night.",
+      "Take a malaria test when you start having fever so that you will know what is wrong with you — do not assume it is malaria. Go to the hospital and take a test. It may not be small malaria but you will not know until you test it."
+    ]
+  },
+  "foods to eat (foods that help the body fight malaria)": [
+    "Ogbono soup with fish or egg",
+    "Boiled rice with vegetable soup (ugu, scent leaf, or bitter leaf)",
+    "Beans cooked with palm oil and ugu",
+    "Pap (akamu) with milk or groundnut",
+    "Well-cooked snail caught after rainfall",
+    "Waterleaf soup with a small amount of red oil",
+    "Pawpaw",
+    "Orange",
+    "Lemon water",
+    "Guava",
+    "Sweet potato",
+    "Soft yam",
+    "Boiled plantain",
+    "Mango leaf or neem leaf tea",
+    "Boiled guinea corn",
+    "Moi moi with little oil",
+    "Oat swallow",
+    "Boiled corn",
+    "Light bitter leaf soup",
+    "Boiled unripe banana",
+    "Light unripe pawpaw porridge",
+    "Soft okro soup with little pepper or oil",
+    "Ugu soup with fish and small red oil",
+    "Rice and beans with scent leaf sauce",
+    "Zobo drink without sugar",
+    "Light kunu drink without sugar",
+    "Boiled egg (only one if the person has cholesterol)",
+    "Light crayfish and fish pepper soup with little pepper"
+  ],
+  "comment": [
+    "#Malaria may appear as an ordinary cold at first, but it is not a minor disease — treating it early can save a person's life.",
+    "#If you are having malaria too often, go to the pharmacy or hospital and let them check your blood — it may be that it is another disease.",
+    "#You may say, 'It is not serious if I do not do all these things, they are just talking' — but it is good health that helps you enjoy life, right?",
+    "#You may say, 'Ah, it is stressful to do all these things.' But just do them little by little. Before you know it, it will feel like part of your body.",
+    "#Malaria does not come from food, dirty water, or sharing things like spoons. It only comes from mosquitoes."
+  ]
+},
+
+    "cholera-diarrhea": {
+  "title": "Watery Stool (Cholera & Diarrhea)",
+  "symptoms": [
+    "The person will have frequent watery stools.",
+    "The person may also be vomiting.",
+    "The body will feel very weak, like there is no energy.",
+    "The tongue, lips, and inside of the mouth will be dry.",
+    "The eyes will look like they are pressed inside.",
+    "The person will urinate very little or may not urinate at all.",
+    "The person may look like they want to faint or fall.",
+    "A child can be crying, but little or no tears will not come out of their eyes."
+  ],
+  "causes": [
+    "A person can get this disease by eating foods or drinking water that contains parasite or bacteria.",
+    "Parasites and bacteria are tiny organisms that can enter food if it is not washed or cooked well — they can be in opened water or food.",
+    "It can come from food or water that was left outside or touched by flies.",
+    "It can happen if someone eats without washing their hands — especially if the hands are already dirty with germs."
+  ],
+  "effects": [
+    "It will make the water and salt in the body leave too quickly.",
+    "It can make the water in the body reduce — the person may feel weak, faint, or even die.",
+    "It can affect small children and old people more seriously.",
+    "If the person does not get proper treatment on time, it can spoil the kidneys.",
+    "If it lasts too long, it can lead to malnutrition — the child will not grow well, the body will look dry, and the person will keep falling sick.",
+    "If the watery stool (diarrhea) refuses to stop, it may be a sign of another disease."
+  ],
+  "prevention": {
+    "lifestyle": [
+      "Drink only boiled or treated water — do not use well or stream water without boiling it.",
+      "Wash your hands with soap after using the toilet, before cooking, and before eating.",
+      "Do not eat food that flies have touched.",
+      "Wash fruits and raw foods well before eating them.",
+      "Always cover food after cooking it.",
+      "Do not share cups or spoons in public places.",
+      "If a child is having watery stool or dysentery (frequent use of toilet), give them at least 3 to 4 cups of clean water or ORS (water with small salt and sugar) to drink during the day — drink it slowly.",
+      "An adult or elderly person can take 5 to 6 cups of water or more, especially after each time they use the toilet — drink it slowly, do not rush.",
+      "Go to the hospital if it lasts more than one day or if the person begins to faint."
+    ]
+  },
+  "foods to eat (foods that give the body water and calm the stomach)": [
+    "Soft and light yam porridge",
+    "Soft boiled yam or potato",
+    "Light okro soup without pepper",
+    "Guava leaf water or lemon water",
+    "Light pap (akamu) with a little sugar and salt",
+    "Soft ripe banana and boiled plantain",
+    "Boiled fish without oil",
+    "Ugu soup with a little salt — do not add Maggi, pepper, or crayfish",
+    "Orange or coconut water",
+    "Soft guinea corn or boiled soft corn",
+    "Tuwo masara with light okro soup",
+    "Light ogbono soup without oil and pepper",
+    "Well-washed and strained bitter leaf water",
+    "Light kunu without sugar",
+    "Soft-roasted yam flour swallow or oat swallow",
+    "Waterleaf soup without pepper or Maggi",
+    "Light unripe pawpaw porridge without pepper",
+    "Boiled unripe banana",
+    "Light zobo water without sugar",
+    "Soft pap mixed with blended ugu leaves",
+    "Light millet pap with a little salt"
+  ],
+  "comment": [
+    "#Do not give the person fried food, meat, beans, milk, zobo, or coke during diarrhea — it will make it worse.",
+    "#Do not force the person to eat when they have it — just give soft foods in small amounts and plenty of water.",
+    "#If you notice the person is stooling too much, vomiting, or fainting — take them to the hospital immediately.",
+    "#A child or elderly person who is not urinating or is sleeping too much — it is serious.",
+    "#Always wash your hands — dirty hands can carry dangerous germs that cause disease."
+  ]
+},
+
+    "anaemia": {
+  "title": "Low Blood Level in the Body (Anaemia)",
+  "symptoms": [
+    "The body will feel weak like there is no strength.",
+    "The person will feel tired even if they have not done any work.",
+    "The body or the hands and feet may feel colder than normal.",
+    "The skin may begin to look pale — it will not have its usual colour.",
+    "The eyes may look faint or dull. It will not be as bright or colourful as it should be.",
+    "The heart may beat too fast sometimes.",
+    "If it is a woman, she may be losing too much blood during her period.",
+    "A child may look dull and not be active.",
+    "Sometimes, the person may have shortness of breath.",
+    "Wounds will take a longer time to heal."
+  ],
+  "other possible signs (may show but not in everyone)": [
+    "Frequent headaches.",
+    "Sometimes, the person may feel like fainting.",
+    "The mouth may have sores or feel painful.",
+    "The nails may break easily or bend like a spoon.",
+    "The tongue may swell or be painful (this does not happen every time).",
+    "The person may want to eat things that are not food, like sand or ice (especially in children).",
+    "The hair may fall more than usual."
+  ],
+  "causes": [
+    "It can happen when someone is not eating enough food that contains iron, like beans, ugu, fish, and liver.",
+    "This iron is what is in some foods you eat that can help the body to make blood. It is something you can eat. It is not pressing iron or metal.",
+    "It can happen when the body loses too much blood — such as during a period, childbirth, or injury.",
+    "If a child does not eat well, it can cause it.",
+    "Pregnancy can reduce the iron in the body if the woman is not eating good food.",
+    "Worms in the stomach can feed on the blood slowly inside the body."
+  ],
+  "effects": [
+    "It will make the person feel weak, dull, and slow to move.",
+    "It will make wounds take longer to heal or not heal well.",
+    "It can stress the heart — which is not good for the body.",
+    "When blood is not enough, the person will not have energy — they will not be active at school or work.",
+    "It can make a child grow slowly, not grow well, or not learn well.",
+    "It can cause a pregnant woman to lose the baby if it is not treated early.",
+    "The person may faint if it becomes too much."
+  ],
+  "prevention": {
+    "lifestyle": [
+      "Eat foods that are rich in iron regularly.",
+      "Boil your water before drinking, so that any worms in it will die.",
+      "Deworm yourself and your child every 6 months.",
+      "If your period is heavy, that is the time you need iron-rich foods the most — it will help your body replace the blood that is lost. Also try to visit the hospital.",
+      "Rest well and do not overwork yourself.",
+      "If you look pale or feel weak, rest and drink plenty of water first. If it continues like that after some days, go to the hospital for a check-up.",
+      "If you have given birth or you are pregnant, eat good food and go to a hospital that attends to pregnant women."
+    ]
+  },
+  "foods to eat (to help the body build blood)": [
+    "Boiled beans or porridge beans with ugu.",
+    "Boiled fish.",
+    "Bitter leaf soup that is light and does not contain too much oil.",
+    "Okro soup that has ugu or scent leaf.",
+    "Moi moi with little oil.",
+    "Pawpaw, guava, and orange — to help the body absorb iron.",
+    "Sweet potato or boiled yam.",
+    "Snail — you can catch it after rain (clean it and cook it well).",
+    "Boiled animal liver or a small portion of red meat (do not eat too much if the person has high blood pressure or cholesterol).",
+    "Akamu (pap) or oats.",
+    "Boiled egg (just one a day — do not eat too much if the person has cholesterol).",
+    "Ewedu soup.",
+    "Edikaikong soup or vegetable soup without too much oil or seasoning cubes."
+  ],
+  "comment": [
+    "#You can eat egusi soup and tomato stew, but if you have cholesterol, do not eat the ones that are fried. You can boil them or use a small amount of oil.",
+    "#Eating animal blood will not give you more blood. It is foods that are rich in iron that will help your body build blood.",
+    "#If you have given birth or you are pregnant, start eating these foods immediately.",
+    "#Reduce fried foods, snacks, and soft drinks like coke and fanta — do not take them too much.",
+    "#Do not depend on blood tonic alone — eat these foods along with it."
+  ]
+},
+
+    "jaundice": {
+  "title": "Yellow Coloured Eyes and Skin (Jaundice)",
+  "symptoms": [
+    "The white part of the eyes will look yellow.",
+    "The skin may become slightly yellow — for dark-skinned people, it shows more in the eyes or inside the mouth.",
+    "The urine will be deep yellow — like pineapple flavoured mirinda.",
+    "The body will feel weak, and the person will not have energy to do work.",
+    "The body may itch, especially at night.",
+    "A baby may cry with a weak voice or may not suck breast well.",
+    "Some people may have a fever or feel pain on the right side of their stomach (belly)."
+  ],
+  "causes": [
+    "It can happen when the liver is not working well. The yellow colour will then show in the eyes and skin. The liver is an organ in the body that helps clean the blood.",
+    "It can happen when there is an infection in the liver. The infection is something that enters the liver and disturbs its work.",
+    "It can come from malaria or using too much medicine that damages the liver.",
+    "A baby can have it from birth if the liver was not fully formed while still in the mother's womb.",
+    "It can also happen if the mother had an infection while the baby was still in her womb.",
+    "A person can get it from using dirty needles or from having unprotected sex — this can pass on liver diseases that cause it."
+  ],
+  "effects": [
+    "It can damage the liver if the person does not treat it.",
+    "The person will feel weak and may not be able to do their normal work again.",
+    "It can cause problems in pregnancy and may harm the baby.",
+    "A baby that is born with it can have brain problems if it is not treated quickly.",
+    "The disease can completely destroy the liver if the person uses drugs that harm the liver."
+  ],
+  "prevention": {
+    "lifestyle": [
+      "Do not use medicine carelessly — even too much paracetamol can affect the liver.",
+      "Boil or treat your water well to avoid infection.",
+      "Always use a new needle for injections or ask them to clean it properly.",
+      "Do not share razors, sharp objects, toothbrushes, or needles.",
+      "If you want to get a tattoo or pierce your ear, make sure the tool is well cleaned.",
+      "If your eyes look yellow or your urine changes colour — go to the hospital immediately.",
+      "If a woman is pregnant, she should go to a hospital that cares for pregnant women — they will test the liver and treat it quickly so that the baby will not be affected."
+    ]
+  },
+  "foods to eat (foods that protect the liver)": [
+    "Food that is not fried.",
+    "Boiled rice with ugu or scent leaf stew.",
+    "Boiled yam or sweet potato.",
+    "Pawpaw.",
+    "Watermelon.",
+    "Orange.",
+    "Soft okro soup.",
+    "Ugu soup with a small amount of red oil.",
+    "Water leaf soup with a small amount of crayfish (no seasoning cubes).",
+    "Boiled corn.",
+    "Cucumber.",
+    "Oat swallow.",
+    "Light vegetable soup.",
+    "Lemon water.",
+    "Coconut water.",
+    "Boiled fish (do not fry it).",
+    "Carrot.",
+    "Mashed avocado (pear).",
+    "Pap with a little milk.",
+    "Guava.",
+    "Zobo drink (without sugar).",
+    "Light and soft bean porridge."
+  ],
+  "comment": [
+    "#Do not ignore yellow eyes — it is a sign that the liver is asking for help.",
+    "#Go and test your liver if you are always tired or if your eyes are changing colour.",
+    "#Too much alcohol, medicine, or unknown herbal mixtures can damage the liver.",
+    "#If your baby is not sucking well and the eyes are yellow — go to the hospital quickly."
+  ]
+},
+
+    "marasmus": {
+  "title": "Big Head, Thin Body (Marasmus)",
+  "symptoms": [
+    "The child will look small like they are not growing — even though they are old enough to be bigger.",
+    "The child's head will look bigger than their body.",
+    "The chest will look flat like paper.",
+    "The belly will look sunken, like a hole — you will see the bones because the body is very dry.",
+    "The skin will be dry and wrinkled — like the skin of an old person.",
+    "The child will be dull — they will not play or smile like before.",
+    "The cry will be weak and low, like there is no strength to cry. It won't be loud as it should because the body is very weak.",
+    "They may cry for food all the time, or sometimes not even want to eat at all.",
+    "Their eyes will look big and dry, like they are sinking in. The face will not look fresh anymore.",
+    "The hair may turn brown or start falling off like an old broom."
+  ],
+  "causes": [
+    "It happens when a child does not eat enough food — especially food that gives energy or add enough fat (weight) to the body.",
+    "It can happen when the mother does not give breast milk well or stops breastfeeding too early.",
+    "A child can get it when they have another disease. When a child is sick, they often don’t want to eat.",
+    "It can happen when the child is only fed watery pap that has no nutrients inside."
+  ],
+  "effects": [
+    "It can kill the child if not treated.",
+    "It will not allow the child to grow well — the legs and hands will not be strong.",
+    "The child will be slow to walk, talk, or even sit.",
+    "It can cause brain problems — the child may not learn quickly.",
+    "If the child catches any small disease, the body will not be strong enough to fight it.",
+    "The skin can get wounds easily, and the wounds will take time to heal."
+  ],
+  "prevention": {
+    "lifestyle": [
+      "Give the baby only breast milk for the first 6 months after birth — do not give water or pap along with it.",
+      "After 6 months, start adding good food to the breast milk — like very soft beans, egg, soft sweet potato, fish, or light pap.",
+      "Feed the child at least 3 to 5 times a day — the child’s small stomach can’t take a lot at once, so give small portions often.",
+      "Treat disease quickly — do not wait until the child becomes too weak.",
+      "Boil drinking water before giving it to the child.",
+      "Wash your hands before feeding the child so they don’t eat germs from your hands."
+    ]
+  },
+  "foods to eat (to give weight and energy)": [
+    "Boiled egg (mashed).",
+    "Mashed beans with a little red oil.",
+    "Pap with crayfish or blended groundnut mixed with water.",
+    "Sweet, ripe pawpaw.",
+    "Mashed sweet potato.",
+    "Ripe banana.",
+    "Light fish soup.",
+    "Okro soup.",
+    "Ugu soup.",
+    "Ewedu with a little oil.",
+    "Mashed ripe plantain.",
+    "Moi moi.",
+    "Soft yam.",
+    "Oat pap.",
+    "Mashed boiled corn.",
+    "Mashed rice with ugu or scent leaf and a little crayfish.",
+    "Avocado pear.",
+    "Soya pap (akamu).",
+    "Milk, if available.",
+    "Plenty of water (give little by little, don’t rush)."
+  ],
+  "comment": [
+    "#If a child looks dry it does not mean that child is cursed or a witch— it means they are not eating well.",
+    "#Do not be ashamed — take the child to the hospital for help.",
+    "#Make sure the child eats food every day that helps build the body — don’t just give pap and leave.",
+    "#If you start seeing bones in the child’s chest and the belly is flat like paper — don’t wait. Act fast. Follow all the steps mentioned here."
+  ]
+},
+
+   "scurvy": {
+  "title": "Bleeding Gums (Scurvy) 🦷🩸",
+  "symptoms": [
+    "Gums will swell or bleed when brushing or eating.",
+    "The body will feel weak.",
+    "Wounds will take longer to heal than normal.",
+    "The person will feel tired or dull most of the time.",
+    "Small red spots may appear on the skin — like blood under the skin, because the blood is leaking slowly underneath.",
+    "There will be body and muscle pain, especially in the arms and legs.",
+    "Hair on the head may start to fall off.",
+    "The person may lose weight and look thinner than before."
+  ],
+  "causes": [
+    "It happens when a person does not eat fruits or foods that contain vitamin C.",
+    "Vitamin C is a nutrient in some foods and fruits that helps the body to remain strong enough to fight off diseases. It is not good for a person to lack this nutrient because it protects the body.",
+    "People who are sick and don’t eat well for a long time may get it.",
+    "People who drink a lot of alcohol or smoke too much.",
+    "It can happen if someone only eats garri, rice, or dry foods without fresh fruits or vegetables."
+  ],
+  "effects": [
+    "It can spoil the gums and teeth.",
+    "The body won’t be able to fight off infections properly.",
+    "The person may fall sick often.",
+    "It can make the bones weak — especially in children. The skin may look dry or break easily like cracked sand.",
+    "Wounds will be stubborn and slow to heal — they take a much longer time than usual.",
+    "Children may not grow well."
+  ],
+  "prevention": {
+    "lifestyle": [
+      "Eat fresh fruits like oranges, guavas, pawpaw (papaya), and mangoes regularly.",
+      "Don’t overcook vegetables — just steam or boil lightly so the vitamin C doesn’t wash away into the water.",
+      "Add ugu (fluted pumpkin), waterleaf, or bitterleaf into your soup and eat it.",
+      "Eat salads or fresh pepper if your stomach doesn’t have issues.",
+      "Rest well and eat food regularly — don’t starve yourself."
+    ]
+  },
+  "foods to eat (to build vitamin C)": [
+    "Guava.",
+    "Orange.",
+    "Pawpaw (papaya).",
+    "Mango.",
+    "Cucumber.",
+    "Sweet pepper.",
+    "Ugu soup.",
+    "Waterleaf soup.",
+    "Ewedu soup.",
+    "Boiled carrot.",
+    "Lemon water.",
+    "Tomato stew (with little oil).",
+    "Boiled sweet potato."
+  ],
+  "comment": [
+    "#Don’t eat only garri or noodles every time. Eat green leaves you can cook into food too.",
+    "#If your gums are bleeding or you’re always tired, check what you’ve been eating.",
+    "#Don’t say you won’t eat because you want to be slim. It’s only a healthy person that can enjoy life.",
+    "#You can eat well and still do small exercise if you want to slim down. It works even if it takes time — just don’t starve yourself.",
+    "#Oranges or lemons can feel too sour and painful, especially if your gums are hurting, so:",
+    "-Squeeze the orange or lemon into water — make juice out of it.",
+    "-Use a straw to drink it so it does not touch your gums too much.",
+    "-Mix it with warm water or honey to reduce the sourness.",
+    "-You can also eat ripe pawpaw, mango, watermelon, or soft tomato — they have vitamin C too but are not as sour as oranges."
+  ]
+},
+
+    "kwashiorkor": {
+  "title": "Thin Body & Big Stomach (Kwashiorkor)",
+  "symptoms": [
+    "The body will look thin like a broomstick, but the belly will be big like a balloon.",
+    "The child's legs and hands will swell — if you press it, the flesh will not bounce back quickly.",
+    "The face may look round like the moon, but that does not mean the child is healthy.",
+    "The legs and face may swell.",
+    "Hair that used to be black may turn brown or reddish. If you pull it gently, it will come off easily.",
+    "The skin may peel or wound easily, even with a small fall — this is because the skin is now very weak.",
+    "The child will not be active — they will appear dull.",
+    "The child may cry without tears.",
+    "The child's cry will be low — not loud like it should be — because the body is very weak."
+  ],
+  "causes": [
+    "A child may get it if they are not eating enough food that contains protein.",
+    "Protein is the part of food that helps the body grow strong and well.",
+    "It can happen when a person only eats rice, pap, or yam without adding beans, fish, or soup. These foods are good but they do not help the body grow — protein is what helps the body grow.",
+    "It can happen if someone does not eat well after an illness like watery stool (diarrhea).",
+    "A child who is stopped from breastfeeding too early and is not fed properly may get it."
+  ],
+  "effects": [
+    "The child will not grow well.",
+    "The body will not have strength to fight diseases.",
+    "The child’s wounds will not heal fast and may begin to smell or rot.",
+    "The skin may peel like it is burnt, and small wounds may grow bigger.",
+    "The skin may spoil like it is decaying.",
+    "If it is not treated quickly, it can lead to the death of the child."
+  ],
+  "prevention": {
+    "lifestyle": [
+      "Give the baby breast milk only for the first six months after birth.",
+      "After six months, give the child food that contains protein — such as beans, fish, eggs, or awara.",
+      "Cook soups with ugu, waterleaf, and crayfish.",
+      "Feed the child regularly — give good meals three to four times each day.",
+      "Do not feed only plain pap or rice — you can add beans, meat, awara, or anything with protein to it."
+    ]
+  },
+  "foods to eat (that has protein)": [
+    "Beans porridge with ugu.",
+    "Melon (egusi) soup.",
+    "Okra soup with crayfish and small fish.",
+    "Fish.",
+    "Boiled egg (for children older than one year).",
+    "Animal liver (in small amount).",
+    "Moi moi.",
+    "Akara.",
+    "Sweet potato.",
+    "Ogbono soup.",
+    "Pap with groundnut paste.",
+    "Boiled yam with vegetable soup.",
+    "Snail — you can catch it after rain and eat it (clean and cook it well)."
+  ],
+  "comment": [
+    "#Feed children food with beans, fish, eggs, and green leaves — do not give only plain rice, pap (Akamu), or garri.",
+    "#If the belly or legs are swelling, go to the hospital quickly.",
+    "#Foods that have protein are not always expensive — you can manage with snail, beans, or river fish. Just clean and cook them well because dirty or uncooked food can cause another disease.",
+    "#When a child's cry becomes low, it is a sign that things are serious — the body is already weak. The child needs help fast."
+  ]
+},
+
+   "goitre": {
+  "title": "Swollen Neck (Goitre)",
+  "symptoms": [
+    "The neck will swell — especially around the throat area",
+    "Sometimes the neck will be painful or it will feel like something is pressing the neck",
+    "The person’s voice may change — it will sound rough like it wants to break or like the person has a cough",
+    "The person may find it hard to swallow or may cough a little",
+    "A child may not grow well and may not be active in school",
+    "The person may sweat or shake at times",
+    "The body may feel weak",
+    "Sometimes it will not be painful, but a lump will show at the front of the neck"
+  ],
+  "causes": [
+    "The person can get the disease when the body does not get food that contains iodine",
+    "Iodine is a good thing found in some foods we eat. This is not the same as the iodine used to clean wounds",
+    "Certain foods like too much cassava or cabbage that are not cooked well can remove iodine from the body",
+    "Infection in the neck can also cause it"
+  ],
+  "effects": [
+    "The swelling in the neck will continue to increase with time",
+    "The person may find it hard to breathe or may sweat anyhow",
+    "A child may not grow well",
+    "The person will feel weak and tired"
+  ],
+  "prevention": {
+    "lifestyle": [
+      "Use iodized salt to cook your food",
+      "Eat food that contains iodine like fish, eggs, and seafood",
+      "Do not eat raw cassava or cabbage — cook them well",
+      "Eat a balanced diet that contains vegetables and protein",
+      "Go to the hospital if the swelling becomes big or painful"
+    ]
+  },
+  "foods to eat (to help prevent goitre)": [
+    "Fish",
+    "Egg",
+    "Snail — you can catch it after rainfall and eat it (make sure to clean and cook it well)",
+    "Salt that has iodine written on it — use a small amount, not too much",
+    "Boiled yam with vegetable soup",
+    "Okro soup with crayfish",
+    "Cooked corn and beans — boil them together and add palm oil, pepper, and a little seasoning cube. It tastes nice and gives the body strength",
+    "Banga soup",
+    "Nsala soup with scent leaf",
+    "Ugu soup",
+    "Water leaf soup",
+    "Ogbono soup with fish"
+  ],
+  "comment": [
+    "#This iodine is something that is already in food. God already put it in the food when He created it. It is not the iodine used to clean wounds — that one is not safe to eat",
+    "#If your neck is swelling or your voice is changing, do not ignore it — go to the clinic",
+    "#Do not try to burst it, it is not a boil. It is dangerous to try to burst it. Just keep eating food that contains iodine and go to the hospital for check ups",
+    "#Use only a small amount of salt — do not use too much. If you use too much, it can cause another disease",
+    "#It will take time before you start to see good changes in your body when you follow these steps, but you will get better. Just keep doing it"
+  ]
+},
+
+    "night-blindness": {
+  "title": "Poor Sight at Night (Night Blindness)",
+  "symptoms": [
+    "Night blindness means that even when it is just a little dark like evening or in a dim room, the person may not see clearly or well. It is normal not to see well in the midnight, but it is a problem to not see clearly when it is starting to get dark",
+    "The person will see well during the day, but once night is coming, the eyes will become dull like something is covering them",
+    "A child will be afraid to walk inside the house when it is not bright or is starting to get dark",
+    "The eyes may feel dry — like breeze passed over them",
+    "The eyes may itch and become red sometimes",
+    "The person may bump into things at night or hold the wall to move around",
+    "If it becomes too much, the person may stop seeing well during the day too"
+  ],
+  " causes": [
+    "It happens when the person does not eat food that contains vitamin A — that is what helps the eyes to see well, especially at night",
+    "A child who has frequent diarrhea can develope night blindness, because diarrhea can lead to vitamin A deficiency",
+    "Diseases like measles or malnutrition (which means the person is not eating well) can make the eyes lack vitamin A",
+    "If a pregnant woman does not eat good food, her baby can also have problems with the eyes"
+  ],
+  "effects": [
+    "The person will not see well once it starts to get dark",
+    "The person will be afraid of the night, and will not play or move around freely",
+    "A child’s eyes will become dull, and they may not be able to read or learn fast",
+    "If it is not treated, the eyes can become worse gradually",
+    "The eyes will become dry like there is no water in them — tears will not come out well when the child is crying, and the eyes may even start to sink in slightly"
+  ],
+  "prevention": {
+    "lifestyle": [
+      "Eat food that contains Vitamin A — like red oil, ugu, water leaf, carrots, mango, and sweet potato",
+      "A child who has had measles or watery stool (diarrhea) needs more Vitamin A",
+      "If you notice that your eyes are not seeing well at night — start eating these foods quickly",
+      "A pregnant woman should eat good food that includes green leafy vegetables and red oil"
+    ]
+  },
+  "foods to eat (that gives the eyes vitamin a)": [
+    "Carrot",
+    "Ugu soup",
+    "Water leaf soup",
+    "Ewedu soup",
+    "Sweet potato",
+    "Boiled yam with red oil",
+    "Mango",
+    "Pawpaw",
+    "Liver (in small amount)",
+    "Egg (if the person does not have high cholesterol)",
+    "Beans with ugu",
+    "Moi moi",
+    "Light okro soup with ugu",
+    "Scent leaf soup",
+    "Oat swallow",
+    "Pap with milk",
+    "Pepper soup that has crayfish and ugu",
+    "Tomato stew with red oil (do not add too much red oil)",
+    "Fish soup"
+  ],
+  "comment": [
+    "#Again, night blindness does not mean that the person will not see at all when it is midnight. It means that even when it is just a little dark like evening or in a dim room, the person may not see easily",
+    "#Eyes that do not see well at night when the place is not too dark is not normal — take it seriously. Still go to the hospital",
+    "#If your child is bumping into things or is afraid of the dark — it is not stubbornness",
+    "#Eating a little carrot, mango or pawpaw every day can protect your eyes",
+    "#Vitamin A is not expensive because you can get it from regular food"
+  ]
+},
+
+    "river-blindness": {
+  "title": "River Blindness (Black Fly Bite)",
+  "symptoms": [
+    "The eyes will start itching first, then the eyes will become red.",
+    "The skin will feel rough or swollen — like something is crawling under it.",
+    "The person will be scratching the body a lot — especially at night.",
+    "The eyes will be painful and the person will not see clearly, like something is covering the eyes.",
+    "The skin will have small lumps or boils that may be moving.",
+    "A child or an adult will be restless — they will not be able to sleep well."
+  ],
+  "causes": [
+    "A small black fly that stays near rivers carries the worm that causes this disease.",
+    "If the fly bites someone, it will put the worm inside the body — the worm will move to the skin and eyes.",
+    "People who live near rivers or fetch water from dirty open rivers can get it more easily."
+  ],
+  "effects": [
+    "It can lead to blindness gradually if the person is not treated.",
+    "The skin will be damaged and the person will be scratching a lot, which can cause wounds.",
+    "It will reduce how the person sees life — they may stop going to work, school, or the farm.",
+    "A child will suffer if they are not treated early — they will not learn well because they cannot see."
+  ],
+  "prevention": {
+    "lifestyle": [
+      "Do not stay long near rivers — cover your body if you are going there.",
+      "Wear long sleeves if you live in such areas.",
+      "Do not allow dirty water or gutters around your house — throw them away.",
+      "Clear bushes around your home.",
+      "Use insect spray in the house — it will help reduce the blackfly.",
+      "Do not stay outside late, especially near water or bushy areas.",
+      "Always cover your skin properly if you must go near rivers or bushes.",
+      "If your eyes or skin start itching and you stay near a river — go to the hospital.",
+      "Cover food and water properly, especially if flies have touched them.",
+      "If you or your child has itching in the eyes, body, or head, or have black rashes that are not going, go to the clinic so they can check you."
+    ]
+  },
+  "foods to eat (that will protect the eyes and skin)": [
+    "Ugu soup",
+    "Waterleaf soup",
+    "Scent leaf sauce with rice and beans",
+    "Ugu soup with fish and a small amount of red oil",
+    "Soft okro soup with little pepper and oil",
+    "Light bitterleaf soup",
+    "Tomato stew with little oil",
+    "Fish soup",
+    "Crayfish pepper soup that is light and not too peppery",
+    "Moi moi with little oil",
+    "Boiled guinea corn",
+    "Boiled corn",
+    "Soft pap with milk or groundnut",
+    "Oat swallow",
+    "Pap (akamu) with milk or groundnut",
+    "Beans cooked with ugu",
+    "Boiled sweet potato",
+    "Boiled yam with oil and scent leaf",
+    "Boiled yam",
+    "Boiled plantain",
+    "Boiled unripe banana",
+    "Light unripe pawpaw porridge",
+    "Pawpaw",
+    "Guava",
+    "Orange",
+    "Lemon water",
+    "Cucumber",
+    "Carrot",
+    "A small amount of liver",
+    "Snail that is well cooked",
+    "Mango leaf or neem leaf tea",
+    "Soft rice and beans",
+    "Light zobo without sugar or artificial sweeteners"
+  ],
+  "comment": [
+    "#You can ask your village head or community leader when health workers will come.",
+    "-When they come, collect the medicine they are sharing, especially if a health worker says everyone should take it.",
+    "-It is free medicine that kills the small worms inside the body that cause the disease.",
+    "-They give it once or twice a year, especially in places where people are getting the disease a lot.",
+    "-Even if you do not have symptoms, still take the medicine the health workers give — it will protect you before the disease starts.",
+    "#One major sign someone has the disease is when the eye begins to look white like smoke is inside it — it does not pain, but it means the worm has started spoiling the eye. If not treated, it can lead to total blindness."
+  ]
+},
+
+  "blood-pressure": {
+  "title": "High Blood Pressure (High BP)🩸⬆️",
+
+  "what it is": [
+    "This happens when blood flows through the body with too much force — like when a pipe is blocked and water is rushing out. If the blood keeps rushing with too much force, it can damage the heart and brain.",
+    "Older people are more likely to have this disease.",
+    "It is important to regularly visit a health centre or hospital to check your if have high bp because there are no physical signs to determine if a person has it."
+  ],
+
+  "causes": [
+    "When a person is under too much stress or has constant problems, it can cause high blood pressure.",
+    "Eating too much salt in food can cause the blood pressure to rise because salt contains sodium.",
+    "Sodium is a substance found in food, and it can make blood to flow through the body with too much force.",
+    "People who do not rest well or are already older in age are more likely to get it."
+  ],
+
+  "effects": [
+    "High BP can harm the heart and blood vessels with time, which may cause heart attack or stroke.",
+    "A heart stroke means the heart will stop beating, and when this happens a person can collapse and die.",
+    "It can cause headache, tiredness, chest pain, or make the heart to be beating faster than usual once it becomes very serious."
+  ],
+
+  "low blood pressure": {
+    "info": [
+      "A person can feel weak or dizzy or feel like fainting if blood is not flowing properly.",
+      "It can happen if you are not eating well or if you are taking a medicine that causes blood pressure to drop.",
+      "A person can get it when they are losing blood — especially women during their period.",
+      "If you feel faint or your eyes are turning, go to the hospital for a check-up.",
+      "Drink enough water and eat food that helps build blood."
+    ]
+  },
+
+  "comment": [
+    "Sometimes, high bp does not show any signs, but it can silently be destroying the body. That is why it is important to do regular check-ups even when you feel fine. Check your blood pressure and sugar level so that anything wrong can be noticed early before it becomes a problem.",
+    "Do not raise your voice or get angry easily — peace of mind is like medicine.",
+    "If you have high blood pressure, make sure you are taking your medicine exactly as the doctor said, and do not skip clinic appointments. This will help control the disease and protect your heart, eyes, kidney, and brain.",
+    "Checking it early and getting proper treatment can help you live a long and healthy life.",
+    "Try to stay calm and do not stress yourself too much. Do what you can and leave the rest to God. Do not worry too much about children, money, or housing. It is only when you are healthy that you can enjoy life.",
+    "Do not eat too much salt, seasoning cubes, or dried fish — they contain sodium that causes the blood pressure to shoot up.",
+    "Do not always fry your food — it is better to boil or roast it.",
+    "Go to the hospital and let them check the amount of force your body uses to push blood (blood pressure) — do not guess it."
+  ],
+  "important information": [
+    "There are things you can do to control and manage high BP so you can live well. But if you ignore it, it can cause serious health issues",
+    "With God, the right way of living, good food, and correct medicine, a person can live a normal, long, and healthy life.",
+    "Use the advice here and you will start to see improvements. Do not only pray, but do your part so that God will do His.",
+    "Early check-up (checking how healthy your body is at the hospital) and treatment is the key."
+  ]
+},
+
+"cholesterol": {
+  "title": "Oil in the Blood (Cholesterol)",
+  "what it is": [
+    "Cholesterol is fat that lives inside the body. When the body has a small amount of fat, it is good because it gives energy. But if the fat is too much, it becomes harmful to the body.",
+    "Older people are more likely to have this disease."
+  ],
+  "causes": [
+    "Cholesterol can be caused by eating oily foods like fried foods, red meat, the white part of an egg, butter, and too much palm oil.",
+    "When a person does not exercise or do activities that help the body, they can get it."
+  ],
+  "effects": [
+    "It can cause a person to have a heart attack or stroke — the heart will stop working because it is already damaged.",
+    "A heart attack or stroke can then lead to death."
+  ],
+  "comment": [
+    "#Do not eat foods that contain too much oil or foods that are cooked or fried with oil. Even red oil and groundnut oil — do not use them too much.",
+    "#Do small exercises even if it is just walking sometimes. It will help your body reduce the fat that is not good for it.",
+    "#Please, stop eating fried food. You can boil or steam it instead. For example, if you like fried chicken, try boiling it — it may even taste better.",
+    "#Stop eating meat that has fat or skin on it.",
+    "#Visit the hospital often to check your cholesterol level if you feel chest pain or find it hard to breathe."
+  ]
+},
+
+  "diabetes": {
+  "title": "High Sugar Level (Diabetes)",
+
+  "what it is": [
+    "It is a disease that a person can develope when there is excess sugar (glucose) in the blood level.",
+    "Both children and elderly people can develope it."
+  ],
+
+  "causes": [
+    "Eating foods that contain a high level of glucose or sugar often can increase the risk of diabetes.",
+    "When a person does not exercise regularly or is not physically active, they have a higher risk of developing diabetes.",
+    "Old age can make a person develop diabetes.",
+    "Diabetes can be hereditary, meaning it can be passed from parents to their children."
+  ],
+
+  "effects": [
+    "If someone does not manage it well, it can damage the eyes, kidney, legs or even the heart."
+  ],
+
+  "comment": [
+    "#Sometimes this disease does not show any signs, but it can be damaging the body quietly inside. That is why it is good to go for regular check-up, even when you feel okay. Always check your blood pressure and sugar level so that they can detect anything early before it becomes a problem.",
+    "#Minimize excess intake of soft drinks like fanta or coke — they contain lots of sugar.",
+    "#If you have diabetes, ensure you take you take your medications as prescribed by the doctor. This will help you control the disease and protect your heart, eyes, kidney, and brain.",
+    "#Checking it early and getting proper treatment can help you live a long and healthy life.",
+    "#If you urinate more than normal, if your eyes are blurry, or if wounds do not heal quickly — go and test your sugar level immediately at the hospital or pharmacy."
+  ]
+},
+
+"liver-disease": {
+  "title": "Liver Disease (Hepatitis)",
+
+  "what it is": [
+    "It is a disease caused by a virus that affects the liver. The liver is the organ that helps to clean the blood in the body. If the liver is damaged, waste will build up in the body and many problems can happen."
+  ],
+
+  "causes": [
+    "Contact with sharp objects like razors, clippers or needles that have been contaminated with the blood of a person who has hepatitis can cause this virus to gain entry into the body.",
+    "A child can get this disease from birth if the mother already had it during pregnancy.",
+  "Using a dirty needle or having unprotected sex can also lead to infection.",
+    "Liver infection can happen if someone drinks too much alcohol or takes strong medicine that can harm the liver. Infection is anything harmful that enters the body."
+  ],
+
+  "symptoms": [
+    "The eyes will become yellow.",
+    "The urine can become dark like coke.",
+    "The body will feel very weak.",
+    "The right side of the stomach can start paining.",
+    "The liver can become completely damaged and the person can die if not treated."
+  ],
+
+  "comment": [
+    "#Do not share toothbrushes, razors, or needles with anyone.",
+    "#Wash meat and fish properly before cooking — raw food can carry germs that cause diseases.",
+    "#Boil water well before drinking it.",
+    "#Go to the hospital and test your liver if your eyes are yellow or if you always feel weak.",
+    "#If you are pregnant, go to the hospital early — they can check if you have hepatitis and treat you so that the baby does not carry it.",
+    "#Do not have sex without protection.",
+    "#Do not share clippers or piercing tools.",
+    "#Ask your doctor for a free hepatitis test and vaccine — some community centres offer it."
+  ]
+},
+
+  "ulcer": {
+    "title": "Wound in the Stomach (Ulcer)",
+    "what it is": "Ulcer is a wound that forms inside the stomach when the protective lining (liquid substance) in the stomach wall becomes weak or gets damaged.",
+
+    "causes": [
+      "H.pylori bacteria is a type of bacteria that can live inside the stomach. If this bacteria stays too long it can make the stomach's protective lining weak, leading to the formation of ulcer.",
+      "Taking pain killer drugs like aspirin or ibrupofen too often, can weaken the stomach's lining by irritating it and causing an inflammation.",
+      "Stomach inflammation is when the protective lining in the stomach becomes irritated, swollen, or red."
+    ],
+    "effects": [
+      "It can cause a sharp or burning pain in the upper part of the stomach or abdomen. The pain may come and go and is often worse when the stomach is empty",
+      " If serious blood can appear in a person’s stool or mouth if the wound in the stomach has blood, which may make the stool look black",
+      "Ulcers can cause nausea and vomiting, which can sometimes have blood if the internal wound is bleeding. Vomiting itself is a common symptom of ulcer."
+    ],
+    "comment": [
+      "A person who has ulcer should not eat pepper soup or suya often, or anything that has a lot of pepper. The pepper in foods can affect the wound in the stomach and cause even more severe pain. Cooking with little pepper for ulcer patients will be good for their health.",
+      "Do not take drugs like aspirin or ibuprofen without eating food first",
+      "Take foods like pap, oats, okro soup, and soft foods — they help to calm the stomach",
+      "Eat early and do not skip meals — it is not good for someone who has ulcer to leave the stomach empty.",
+      "Quitting smoking and avoiding alcohol can help heal ulcer overtime",
+      "A person who has ulcer should go to the hospital to get medical check-up and medications to treat ulcer",
+      "Exercising is more effective and healthier for weight loss than not eating properly because starving one's self could increase ulcer pain."
+    ],
+
+      "important information": [
+      "This kind of illness can be cured if it is treated, but if care is not maintained it can come back",
+      "With God, the right lifestyle, good food, and proper medicine, a person can live a normal, long, and healthy life",
+      "Do not only pray, also play your part so that God will do His own",
+      "Early check-up (checking your health status at the hospital) and treatment is the key"
+    ]
+
+  },
+
+  "dehydration": {
+    "title": "Low Water in the Body (Dehydration) 💧",
+    "what it is": [
+      "It is when the water in the body has dropped too much — the body can no longer function well.",
+      "This is not a disease, but it can disturb the body."
+    ],
+    "causes": [
+      "When a person does not drink enough water. What the body needs is clean water because if the water is dirty, it can cause another disease",
+      "A person can get it when they are passing watery stool (diarrhea).",
+      "It can happen when the weather is hot or when a person is vomiting."
+    ],
+    "effects": [
+      "The inside of the mouth will be dry like there is no water.",
+      "The body will feel weak. The person will not have energy to do work properly",
+      "The person will not urinate well or will be urinating only a small amount",
+      "It can make a person feel confused or unable to think properly.",
+      "If it becomes too bad, the person can faint."
+    ],
+    "comment": [
+      "#Drink clean water regularly throughout the day — even when you do not feel like it",
+      "#If a person is vomiting or has watery stool, give the person water that contains a small amount of salt and sugar",
+      "#Give elderly people clean water to drink often — they may not ask for it, but they need it",
+      "#Check your urine — if it is yellow or little in amount, the body needs more water",
+      "#Dehydration is not a disease on its own, but it is a condition that happens when the body experiences a reduced amount of water. It can lead to further health issues if the reduced amount of water in the body is not replaced for a long while."
+    ]
+  }
+}
