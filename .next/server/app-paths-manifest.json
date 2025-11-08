@@ -2,6 +2,5 @@
   "/page": "app/page.js",
   "/disease/page": "app/disease/page.js",
   "/disease/[lang]/[slug]/page": "app/disease/[lang]/[slug]/page.js",
-  "/contact/page": "app/contact/page.js",
-  "/about/page": "app/about/page.js"
+  "/privacy/page": "app/privacy/page.js"
 }

@@ -21,15 +21,10 @@
       "static/chunks/main-app.js",
       "static/chunks/app/disease/[lang]/[slug]/page.js"
     ],
-    "/about/page": [
+    "/privacy/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/about/page.js"
-    ],
-    "/contact/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/contact/page.js"
+      "static/chunks/app/privacy/page.js"
     ]
   }
 }

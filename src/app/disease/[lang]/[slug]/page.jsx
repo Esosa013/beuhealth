@@ -1,6 +1,7 @@
 import { diseaseData, englishDiseaseData } from '@/data/disease'
 import Link from 'next/link'
 import { ArrowLeft, AlertCircle, CheckCircle, Activity, Stethoscope, Pill, Shield, BookOpen } from 'lucide-react'
+import TextToSpeech from '@/components/TextToSpeech'
 
 // Icon mapping for different sections
 const getSectionIcon = (key) => {
@@ -93,7 +94,7 @@ export default async function DiseasePage({ params }) {
         </Link>
 
         {/* Hero Section */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-2xl p-8 md:p-12 mb-8 shadow-xl">
+        <div className="bg-linear-to-r from-blue-600 to-blue-700 rounded-2xl p-8 md:p-12 mb-8 shadow-xl">
           <div className="max-w-3xl">
             <div className="inline-block px-4 py-1.5 bg-white/20 backdrop-blur-sm rounded-full text-white text-sm font-medium mb-4">
               Health Information
@@ -106,6 +107,15 @@ export default async function DiseasePage({ params }) {
                 {Array.isArray(overview) ? overview[0] : overview}
               </p>
             )}
+            <div className="mt-4">
+              <TextToSpeech
+                text={
+                  `${disease.title}. ${
+                  Array.isArray(overview) ? overview.join(' ') : overview
+                  }`
+               }
+            />
+          </div>
           </div>
         </div>
 

@@ -15,9 +15,9 @@ export default function Footer() {
             © 2025–Present BeuHealth. All rights reserved.
           </p>
           <div className="flex gap-4 text-xs text-gray-400">
-            <a href="#" className="hover:text-blue-500 transition-colors">Privacy</a>
+            <a href="/privacy" className="hover:text-blue-500 transition-colors">Privacy</a>
             <span>•</span>
-            <a href="#" className="hover:text-blue-500 transition-colors">Terms</a>
+            <a href="/terms" className="hover:text-blue-500 transition-colors">Terms</a>
           </div>
         </div>
       </div>
