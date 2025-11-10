@@ -2,6 +2,7 @@ import { diseaseData, englishDiseaseData } from '@/data/disease'
 import Link from 'next/link'
 import { ArrowLeft, AlertCircle, CheckCircle, Activity, Stethoscope, Pill, Shield, BookOpen } from 'lucide-react'
 import TextToSpeech from '@/components/TextToSpeech'
+import CommunityHighlights from '@/components/CommunityHighlights'
 
 // Icon mapping for different sections
 const getSectionIcon = (key) => {
@@ -53,7 +54,7 @@ export default async function DiseasePage({ params }) {
           <ul className="space-y-3 mt-4">
             {val.map((item, i) => (
               <li key={i} className="flex items-start gap-3 group">
-                <div className="w-6 h-6 rounded-full bg-blue-100 flex items-center justify-center flex-shrink-0 mt-0.5 group-hover:bg-blue-200 transition-colors">
+                <div className="w-6 h-6 rounded-full bg-blue-100 flex items-center justify-center shrink-0 mt-0.5 group-hover:bg-blue-200 transition-colors">
                   <CheckCircle className="w-4 h-4 text-blue-600" />
                 </div>
                 <span className="text-gray-700 leading-relaxed flex-1">{item}</span>
@@ -131,7 +132,7 @@ export default async function DiseasePage({ params }) {
                 key={k} 
                 className="bg-white rounded-2xl border border-gray-200 overflow-hidden hover:shadow-xl transition-all duration-300"
               >
-                <div className="bg-gradient-to-r from-gray-50 to-white px-8 py-6 border-b border-gray-200">
+                <div className="bg-linear-to-r from-gray-50 to-white px-8 py-6 border-b border-gray-200">
                   <div className="flex items-center gap-4">
                     <div className="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center">
                       <Icon className="w-6 h-6 text-blue-600" />
@@ -148,6 +149,9 @@ export default async function DiseasePage({ params }) {
             )
           })}
         </div>
+
+        {/* Community Highlights */}
+        <CommunityHighlights lang={lang} data={data} />
 
         {/* Disclaimer */}
         <div className="mt-12 bg-amber-50 border-l-4 border-amber-500 rounded-xl p-6">
