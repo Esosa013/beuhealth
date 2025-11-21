@@ -4,7 +4,6 @@ import { ArrowLeft, AlertCircle, CheckCircle, Activity, Stethoscope, Pill, Shiel
 import TextToSpeech from '@/components/TextToSpeech'
 import CommunityHighlights from '@/components/CommunityHighlights'
 
-
 // Icon mapping for different sections
 const getSectionIcon = (key) => {
   const iconMap = {
@@ -17,7 +16,7 @@ const getSectionIcon = (key) => {
     description: BookOpen,
     comment: BookOpen,
   }
-  
+
   const normalizedKey = key.toLowerCase().replace(/_/g, '')
   return iconMap[normalizedKey] || BookOpen
 }
@@ -49,7 +48,8 @@ export default async function DiseasePage({ params }) {
     }
 
     // Helper to render values
-    const renderValue = (val) => {
+    const renderValue = (val, parentKey = '') => {
+      // ARRAY SECTION
       if (Array.isArray(val)) {
         return (
           <ul className="space-y-3 mt-4">
@@ -63,47 +63,52 @@ export default async function DiseasePage({ params }) {
             ))}
           </ul>
         )
-      } else if (typeof val === 'object' && val !== null) {
+      }
+
+      // SUBSECTION (OBJECT)
+      if (typeof val === 'object' && val !== null) {
         return (
           <div className="mt-4 space-y-6">
             {Object.entries(val).map(([subKey, subVal]) => (
               <div key={subKey} className="pl-6 border-l-2 border-blue-200">
 
-  <div className="flex items-center justify-between mb-2">
-    <h4 className="font-semibold text-gray-900 capitalize">
-      {subKey.replace(/_/g, ' ')}
-    </h4>
+                {/* Subsection Header */}
+                <div className="flex items-center justify-between mb-2">
+                  <h4 className="font-semibold text-gray-900 capitalize">
+                    {subKey.replace(/_/g, ' ')}
+                  </h4>
 
-    {/* Subsection TTS */}
-    <TextToSpeech
-      text={
-        Array.isArray(subVal)
-          ? subVal.join('. ')
-          : typeof subVal === 'object'
-          ? Object.values(subVal)
-              .flatMap(x => (Array.isArray(x) ? x : Object.values(x)))
-              .join('. ')
-          : String(subVal)
-      }
-    />
-  </div>
+                  {/* Subsection TTS */}
+                  <TextToSpeech
+                    text={`${subKey.replace(/_/g, ' ')}. ${
+                      Array.isArray(subVal)
+                        ? subVal.join('. ')
+                        : typeof subVal === 'object'
+                        ? Object.values(subVal)
+                            .flatMap(x => (Array.isArray(x) ? x : Object.values(x)))
+                            .join('. ')
+                        : String(subVal)
+                    }`}
+                  />
+                </div>
 
-  {renderValue(subVal)}
-</div>
-
+                {renderValue(subVal, subKey)}
+              </div>
             ))}
           </div>
         )
-      } else {
-        return <p className="mt-4 text-gray-700 leading-relaxed text-lg">{val}</p>
       }
+
+      // STRING (Paragraph)
+      return <p className="mt-4 text-gray-700 leading-relaxed text-lg">{val}</p>
     }
 
-    // Extract overview if it exists
+    // Extract overview
     const overview = disease.overview || disease.description || disease.comment || ''
 
     return (
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+
         {/* Back Button */}
         <Link 
           href={`/disease?lang=${lang}`}
@@ -119,23 +124,22 @@ export default async function DiseasePage({ params }) {
             <div className="inline-block px-4 py-1.5 bg-white/20 backdrop-blur-sm rounded-full text-white text-sm font-medium mb-4">
               Health Information
             </div>
-            <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
-              {disease.title}
-            </h1>
+
+            <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">{disease.title}</h1>
+
             {overview && (
               <p className="text-blue-100 text-lg leading-relaxed">
                 {Array.isArray(overview) ? overview[0] : overview}
               </p>
             )}
+
             <div className="mt-4">
               <TextToSpeech
-                text={
-                  `${disease.title}. ${
+                text={`${disease.title}. ${
                   Array.isArray(overview) ? overview.join(' ') : overview
-                  }`
-               }
-            />
-          </div>
+                }`}
+              />
+            </div>
           </div>
         </div>
 
@@ -143,9 +147,9 @@ export default async function DiseasePage({ params }) {
         <div className="space-y-6">
           {Object.entries(disease).map(([k, v]) => {
             if (k === 'title' || k === 'overview' || k === 'description') return null
-            
+
             const Icon = getSectionIcon(k)
-            
+
             return (
               <section 
                 key={k} 
@@ -156,30 +160,36 @@ export default async function DiseasePage({ params }) {
                     <div className="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center">
                       <Icon className="w-6 h-6 text-blue-600" />
                     </div>
+
                     <h2 className="text-2xl font-bold text-gray-900 capitalize">
                       {k.replace(/_/g, ' ')}
                     </h2>
                   </div>
                 </div>
+
                 <div className="px-8 py-6">
 
-  {/* Text-to-Speech for each section */}
-  <div className="flex justify-end mb-4">
-    <TextToSpeech
-      text={
-        Array.isArray(v)
-          ? v.join('. ')
-          : typeof v === 'object'
-          ? Object.values(v)
-              .flatMap(sub => (Array.isArray(sub) ? sub : Object.values(sub)))
-              .join('. ')
-          : String(v)
-      }
-    />
-  </div>
+                  {/* Section TTS */}
+                  <div className="flex justify-end mb-4">
+                    <TextToSpeech
+                      text={`${k.replace(/_/g, ' ')}. ${
+                        Array.isArray(v)
+                          ? v.join('. ')
+                          : typeof v === 'object'
+                          ? Object.values(v)
+                              .flatMap(sub =>
+                                Array.isArray(sub)
+                                  ? sub
+                                  : Object.values(sub)
+                              )
+                              .join('. ')
+                          : String(v)
+                      }`}
+                    />
+                  </div>
 
-  {renderValue(v)}
-</div>
+                  {renderValue(v, k)}
+                </div>
               </section>
             )
           })}
@@ -201,6 +211,7 @@ export default async function DiseasePage({ params }) {
             </div>
           </div>
         </div>
+
       </div>
     )
   } catch (err) {

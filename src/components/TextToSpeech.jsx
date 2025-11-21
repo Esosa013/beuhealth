@@ -1,20 +1,50 @@
 'use client'
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { Volume2, Square } from 'lucide-react'
 
 export default function TextToSpeech({ text }) {
   const [isSpeaking, setIsSpeaking] = useState(false)
+  const [voice, setVoice] = useState(null)
+
+  useEffect(() => {
+    const loadVoices = () => {
+      const voices = window.speechSynthesis.getVoices()
+
+      const preferred = [
+        'Google UK English Male',
+        'Google UK English Female',
+        'English (UK)',
+        'en-GB',
+      ]
+
+      const found = voices.find(v => preferred.includes(v.name)) ||
+                    voices.find(v => v.lang === 'en-GB') ||
+                    voices.find(v => v.lang.startsWith('en')) ||
+                    voices[0]
+
+      setVoice(found)
+    }
+
+    loadVoices()
+    window.speechSynthesis.onvoiceschanged = loadVoices
+  }, [])
 
   const handleSpeak = () => {
     if (!text) return
     const utterance = new SpeechSynthesisUtterance(text)
-    utterance.lang = 'en-US' // you can change dynamically if needed
+
+    if (voice) {
+      utterance.voice = voice
+      utterance.lang = voice.lang
+    } else {
+      utterance.lang = 'en-GB'
+    }
+
     utterance.rate = 1.0
     utterance.pitch = 1.0
 
     utterance.onend = () => setIsSpeaking(false)
 
-    // stop any current speech before starting a new one
     window.speechSynthesis.cancel()
     setIsSpeaking(true)
     window.speechSynthesis.speak(utterance)
