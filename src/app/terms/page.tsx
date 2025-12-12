@@ -63,7 +63,7 @@ export default function TermsPage() {
         <section className="bg-amber-50 border-l-4 border-amber-500 rounded-xl p-6 flex items-start gap-3">
           <Info className="w-6 h-6 text-amber-600 mt-1 shrink-0" />
           <p className="text-amber-800">
-            For any questions regarding these Terms, contact us at <span className="text-blue-600 font-medium">chikamordi08@gmail.com</span>.
+            For any questions regarding these Terms, contact us at <span className="text-blue-600 font-medium">beuhealth.help@gmail.com</span>.
           </p>
         </section>
       </div>

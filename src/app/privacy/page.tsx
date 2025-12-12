@@ -58,7 +58,7 @@ export default function PrivacyPage() {
           <h2 className="text-2xl font-bold text-gray-900 mb-3">4. Your Rights</h2>
           <p>
             You have the right to access, modify, or delete your personal data. 
-            Contact us at <span className="text-blue-600 font-medium">chikamordi08@gmail.com</span> for data requests.
+            Contact us at <span className="text-blue-600 font-medium">beuhealth.help@gmail.com</span> for data requests.
           </p>
         </section>
 

@@ -16,7 +16,7 @@ export default function Contact() {
             
     <div className="space-y-4">
       <a 
-        href="mailto:chikamordi08@gmail.com"
+        href="mailto:beuhealth.help@gmail.com"
         className="flex items-center gap-3 p-4 bg-blue-50 hover:bg-blue-100 rounded-xl transition-colors duration-200 group"
       >
         <div className="w-10 h-10 bg-blue-500 rounded-lg flex items-center justify-center shrink-0 shadow-md group-hover:shadow-lg transition-shadow">
@@ -25,7 +25,7 @@ export default function Contact() {
         <div className="min-w-0">
           <h3 className="text-sm font-semibold text-gray-800 mb-0.5">Email</h3>
           <p className="text-blue-600 text-sm font-medium truncate sm:whitespace-normal">
-            chikamordi08@gmail.com
+            beuhealth.help@gmail.com
           </p>
         </div>
       </a>
